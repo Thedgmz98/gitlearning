@@ -5,4 +5,7 @@ const tata = {
      profesion: 'mhalo'
 }
 
+let numero = " ";
+let patrick = 19;
+
 console.log(tata)
