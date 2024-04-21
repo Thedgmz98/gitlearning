@@ -1,0 +1,22 @@
+body{
+
+}
+
+.prueba{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+     padding-top: 12rem;
+     padding-bottom: 12rem;
+     border: solid;
+}
+
+.fos{
+     display: flex;
+     justify-content: center;
+     flex-direction: column;
+     border: solid 5px blueviolet;
+     border-radius: 20px;
+     padding: 20px;
+}
